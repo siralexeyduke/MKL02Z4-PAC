@@ -8,7 +8,7 @@ Low-level register mappings for the Kinetis KL02 series microcontrollers in Rust
 
 Just add crate to the dependencies in Cargo.toml:
 ```
-MKL02Z4 = {git = "https://github.com/siralexeyduke/MKL02Z4"}
+MKL02Z4 = {git = "https://github.com/siralexeyduke/MKL02Z4-PAC"}
 ```
 
 ## Documentation
